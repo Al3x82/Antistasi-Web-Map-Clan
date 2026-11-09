@@ -14,9 +14,11 @@ Mappa web della campagna Arma 3 Antistasi, aggiornata dal salvataggio del server
 
 ## Screenshot
 
-![Panoramica della campagna](docs/screenshots/overview.png)
-![Fronti e aree delle fazioni](docs/screenshots/frontlines.png)
-![Filtri e riepilogo categorie](docs/screenshots/categories.png)
+[Panoramica della campagna](docs/screenshots/overview.png)
+
+[Fronti e aree delle fazioni](docs/screenshots/frontlines.png)
+
+[Filtri e riepilogo categorie](docs/screenshots/categories.png)
 
 ## Compatibilità e limiti
 
