@@ -43,8 +43,7 @@ Prerequisiti: Linux con Python 3.10+, systemd, server Arma 3 già installato; Op
 
 ## Personalizzazione e manutenzione
 
-- [`docs/PERSONALIZZAZIONE.md`](docs/PERSONALIZZAZIONE.md): logo, testi, colori, alfa, raggi e screenshot.
-- [`docs/GITHUB.md`](docs/GITHUB.md): pubblicazione del repository e attivazione donazioni.
+- [`docs/PERSONALIZZAZIONE.md`](docs/PERSONALIZZAZIONE.md): logo, testi, colori, alfa, raggi.
 - [`THIRD_PARTY.md`](THIRD_PARTY.md): provenienza dei dati e componenti esterni.
 - `exporter/config.json`: configurazione privata locale, esclusa da Git.
 - `web/`: unica directory destinata al server HTTP.
