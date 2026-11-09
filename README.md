@@ -14,11 +14,9 @@ Mappa web della campagna Arma 3 Antistasi, aggiornata dal salvataggio del server
 
 ## Screenshot
 
-Aggiungi le immagini in [`docs/screenshots/`](docs/screenshots/README.md), poi rimuovi i commenti dai collegamenti qui sotto.
-
-<!-- ![Panoramica della campagna](docs/screenshots/overview.png) -->
-<!-- ![Fronti e aree delle fazioni](docs/screenshots/frontlines.png) -->
-<!-- ![Filtri e riepilogo categorie](docs/screenshots/categories.png) -->
+![Panoramica della campagna](docs/screenshots/overview.png)
+![Fronti e aree delle fazioni](docs/screenshots/frontlines.png)
+![Filtri e riepilogo categorie](docs/screenshots/categories.png)
 
 ## Compatibilità e limiti
 
@@ -68,7 +66,7 @@ Node è usato soltanto per il controllo sintattico in sviluppo/CI, non è necess
 - **Drunken Reapers Veterans**, per l'idea, le prove e il feedback sul progetto.
 - Sviluppo assistito da strumenti IA, con verifica dei dati e dei calcoli.
 
-Progetto indipendente, non ufficiale e non affiliato a Bohemia Interactive o Antistasi. I diritti delle risorse di terzi restano ai rispettivi titolari. La licenza del codice originale deve essere scelta dal titolare prima di presentare il repository come open source; vedere `THIRD_PARTY.md`.
+Progetto indipendente, non ufficiale e non affiliato a Bohemia Interactive o Antistasi. I diritti delle risorse di terzi restano ai rispettivi titolari.
 
 ## Offri un caffè o qualche token IA
 
