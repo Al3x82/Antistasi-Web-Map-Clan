@@ -1,0 +1,17 @@
+exporter/config.json
+exporter/state/
+web/data/*
+!web/data/.gitkeep
+__pycache__/
+*.py[cod]
+*.Arma3Profile
+*.vars.*
+*.pem
+*.key
+.env
+.env.*
+!.env.example
+*.zip
+*.log
+backup*/
+.DS_Store

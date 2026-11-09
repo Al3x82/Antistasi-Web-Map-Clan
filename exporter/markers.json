@@ -1,0 +1,794 @@
+{
+  "airport": {
+    "id": "airport",
+    "type": "airport",
+    "x": 21017.943,
+    "y": 7303.1069
+  },
+  "airport_1": {
+    "id": "airport_1",
+    "type": "airport",
+    "x": 23071.777,
+    "y": 18784.75
+  },
+  "airport_2": {
+    "id": "airport_2",
+    "type": "airport",
+    "x": 26954.967,
+    "y": 24778.498
+  },
+  "airport_4": {
+    "id": "airport_4",
+    "type": "airport",
+    "x": 11503.476,
+    "y": 11701.17
+  },
+  "airport_3": {
+    "id": "airport_3",
+    "type": "airport",
+    "x": 14746.683,
+    "y": 16369.856
+  },
+  "airport_5": {
+    "id": "airport_5",
+    "type": "airport",
+    "x": 9087.752,
+    "y": 21520.541
+  },
+  "factory": {
+    "id": "factory",
+    "type": "factory",
+    "x": 12628.22,
+    "y": 16374.55
+  },
+  "factory_1": {
+    "id": "factory_1",
+    "type": "factory",
+    "x": 14340.091,
+    "y": 18940.465
+  },
+  "factory_2": {
+    "id": "factory_2",
+    "type": "factory",
+    "x": 6339.8169,
+    "y": 14889.688
+  },
+  "factory_3": {
+    "id": "factory_3",
+    "type": "factory",
+    "x": 6191.0,
+    "y": 16249.0
+  },
+  "factory_4": {
+    "id": "factory_4",
+    "type": "factory",
+    "x": 3269.9639,
+    "y": 12458.831
+  },
+  "factory_5": {
+    "id": "factory_5",
+    "type": "factory",
+    "x": 25413.35,
+    "y": 20337.379
+  },
+  "factory_6": {
+    "id": "factory_6",
+    "type": "factory",
+    "x": 20671.299,
+    "y": 15727.05
+  },
+  "factory_7": {
+    "id": "factory_7",
+    "type": "factory",
+    "x": 27005.279,
+    "y": 21521.68
+  },
+  "factory_8": {
+    "id": "factory_8",
+    "type": "factory",
+    "x": 15324.894,
+    "y": 16240.821
+  },
+  "factory_9": {
+    "id": "factory_9",
+    "type": "factory",
+    "x": 11013.0,
+    "y": 12655.0
+  },
+  "factory_10": {
+    "id": "factory_10",
+    "type": "factory",
+    "x": 8226.3398,
+    "y": 10939.702
+  },
+  "factory_11": {
+    "id": "factory_11",
+    "type": "factory",
+    "x": 4214.4863,
+    "y": 15044.147
+  },
+  "factory_12": {
+    "id": "factory_12",
+    "type": "factory",
+    "x": 20258.768,
+    "y": 8812.457
+  },
+  "resource_1": {
+    "id": "resource_1",
+    "type": "resource",
+    "x": 18466.467,
+    "y": 14273.436
+  },
+  "resource_2": {
+    "id": "resource_2",
+    "type": "resource",
+    "x": 17098.65,
+    "y": 11295.575
+  },
+  "resource_3": {
+    "id": "resource_3",
+    "type": "resource",
+    "x": 18292.928,
+    "y": 15534.244
+  },
+  "resource_4": {
+    "id": "resource_4",
+    "type": "resource",
+    "x": 4432.5454,
+    "y": 12589.146
+  },
+  "resource_5": {
+    "id": "resource_5",
+    "type": "resource",
+    "x": 5890.0859,
+    "y": 20206.713
+  },
+  "resource_6": {
+    "id": "resource_6",
+    "type": "resource",
+    "x": 5955.3052,
+    "y": 12531.119
+  },
+  "resource_7": {
+    "id": "resource_7",
+    "type": "resource",
+    "x": 7550.8408,
+    "y": 12182.686
+  },
+  "resource_8": {
+    "id": "resource_8",
+    "type": "resource",
+    "x": 19616.584,
+    "y": 15635.412
+  },
+  "resource_10": {
+    "id": "resource_10",
+    "type": "resource",
+    "x": 11601.854,
+    "y": 18397.355
+  },
+  "resource_11": {
+    "id": "resource_11",
+    "type": "resource",
+    "x": 9523.1553,
+    "y": 15148.449
+  },
+  "resource_9": {
+    "id": "resource_9",
+    "type": "resource",
+    "x": 10579.699,
+    "y": 9476.3096
+  },
+  "resource_12": {
+    "id": "resource_12",
+    "type": "resource",
+    "x": 3010.8989,
+    "y": 18496.426
+  },
+  "seaport": {
+    "id": "seaport",
+    "type": "seaport",
+    "x": 16660.623,
+    "y": 12307.622
+  },
+  "seaport_1": {
+    "id": "seaport_1",
+    "type": "seaport",
+    "x": 15391.129,
+    "y": 15859.363
+  },
+  "seaport_3": {
+    "id": "seaport_3",
+    "type": "seaport",
+    "x": 20690.789,
+    "y": 19468.619
+  },
+  "seaport_4": {
+    "id": "seaport_4",
+    "type": "seaport",
+    "x": 27606.973,
+    "y": 24585.254
+  },
+  "seaport_2": {
+    "id": "seaport_2",
+    "type": "seaport",
+    "x": 3201.4004,
+    "y": 12895.46
+  },
+  "seaport_6": {
+    "id": "seaport_6",
+    "type": "seaport",
+    "x": 23348.721,
+    "y": 24192.736
+  },
+  "seaport_5": {
+    "id": "seaport_5",
+    "type": "seaport",
+    "x": 5087.459,
+    "y": 9959.5801
+  },
+  "outpost": {
+    "id": "outpost",
+    "type": "outpost",
+    "x": 23042.313,
+    "y": 7271.7881
+  },
+  "outpost_1": {
+    "id": "outpost_1",
+    "type": "outpost",
+    "x": 14832.187,
+    "y": 11130.582
+  },
+  "outpost_2": {
+    "id": "outpost_2",
+    "type": "outpost",
+    "x": 19352.627,
+    "y": 9680.4424
+  },
+  "outpost_3": {
+    "id": "outpost_3",
+    "type": "outpost",
+    "x": 16839.291,
+    "y": 12054.557
+  },
+  "outpost_4": {
+    "id": "outpost_4",
+    "type": "outpost",
+    "x": 21929.689,
+    "y": 20978.234
+  },
+  "outpost_5": {
+    "id": "outpost_5",
+    "type": "outpost",
+    "x": 28323.988,
+    "y": 25754.41
+  },
+  "outpost_6": {
+    "id": "outpost_6",
+    "type": "outpost",
+    "x": 25265.373,
+    "y": 21799.918
+  },
+  "outpost_7": {
+    "id": "outpost_7",
+    "type": "outpost",
+    "x": 4842.5059,
+    "y": 21950.449
+  },
+  "outpost_8": {
+    "id": "outpost_8",
+    "type": "outpost",
+    "x": 20600.074,
+    "y": 18814.98
+  },
+  "outpost_9": {
+    "id": "outpost_9",
+    "type": "outpost",
+    "x": 20627.328,
+    "y": 20103.941
+  },
+  "outpost_10": {
+    "id": "outpost_10",
+    "type": "outpost",
+    "x": 16083.18,
+    "y": 17002.723
+  },
+  "outpost_11": {
+    "id": "outpost_11",
+    "type": "outpost",
+    "x": 12479.839,
+    "y": 15197.453
+  },
+  "outpost_12": {
+    "id": "outpost_12",
+    "type": "outpost",
+    "x": 9210.2285,
+    "y": 19280.602
+  },
+  "outpost_13": {
+    "id": "outpost_13",
+    "type": "outpost",
+    "x": 16583.912,
+    "y": 19013.328
+  },
+  "outpost_14": {
+    "id": "outpost_14",
+    "type": "outpost",
+    "x": 3910.7341,
+    "y": 12293.879
+  },
+  "outpost_15": {
+    "id": "outpost_15",
+    "type": "outpost",
+    "x": 8915.0,
+    "y": 7477.0
+  },
+  "outpost_16": {
+    "id": "outpost_16",
+    "type": "outpost",
+    "x": 13782.833,
+    "y": 6387.1587
+  },
+  "outpost_17": {
+    "id": "outpost_17",
+    "type": "outpost",
+    "x": 14275.173,
+    "y": 16275.15
+  },
+  "outpost_18": {
+    "id": "outpost_18",
+    "type": "outpost",
+    "x": 18088.539,
+    "y": 19181.594
+  },
+  "outpost_19": {
+    "id": "outpost_19",
+    "type": "outpost",
+    "x": 9707.4756,
+    "y": 22307.146
+  },
+  "outpost_20": {
+    "id": "outpost_20",
+    "type": "outpost",
+    "x": 18726.775,
+    "y": 10212.497
+  },
+  "outpost_21": {
+    "id": "outpost_21",
+    "type": "outpost",
+    "x": 17869.176,
+    "y": 11748.62
+  },
+  "outpost_22": {
+    "id": "outpost_22",
+    "type": "outpost",
+    "x": 6841.707,
+    "y": 16108.049
+  },
+  "outpost_23": {
+    "id": "outpost_23",
+    "type": "outpost",
+    "x": 15176.144,
+    "y": 17362.143
+  },
+  "outpost_24": {
+    "id": "outpost_24",
+    "type": "outpost",
+    "x": 26473.199,
+    "y": 22189.578
+  },
+  "outpost_25": {
+    "id": "outpost_25",
+    "type": "outpost",
+    "x": 10013.51,
+    "y": 11240.627
+  },
+  "outpost_26": {
+    "id": "outpost_26",
+    "type": "outpost",
+    "x": 4553.2354,
+    "y": 15432.443
+  },
+  "outpost_27": {
+    "id": "outpost_27",
+    "type": "outpost",
+    "x": 8393.2578,
+    "y": 18246.23
+  },
+  "outpost_28": {
+    "id": "outpost_28",
+    "type": "outpost",
+    "x": 9930.5068,
+    "y": 19386.279
+  },
+  "outpost_29": {
+    "id": "outpost_29",
+    "type": "outpost",
+    "x": 3097.0039,
+    "y": 13198.053
+  },
+  "outpost_30": {
+    "id": "outpost_30",
+    "type": "outpost",
+    "x": 6565.8325,
+    "y": 22679.818
+  },
+  "outpost_31": {
+    "id": "outpost_31",
+    "type": "outpost",
+    "x": 12850.134,
+    "y": 16721.346
+  },
+  "outpost_32": {
+    "id": "outpost_32",
+    "type": "outpost",
+    "x": 8850.5615,
+    "y": 23451.566
+  },
+  "outpost_33": {
+    "id": "outpost_33",
+    "type": "outpost",
+    "x": 5476.9844,
+    "y": 14999.874
+  },
+  "outpost_34": {
+    "id": "outpost_34",
+    "type": "outpost",
+    "x": 14215.958,
+    "y": 21225.672
+  },
+  "outpost_35": {
+    "id": "outpost_35",
+    "type": "outpost",
+    "x": 4276.1841,
+    "y": 20684.613
+  },
+  "outpost_36": {
+    "id": "outpost_36",
+    "type": "outpost",
+    "x": 23594.504,
+    "y": 21100.33
+  },
+  "outpost_37": {
+    "id": "outpost_37",
+    "type": "outpost",
+    "x": 20940.734,
+    "y": 19235.641
+  },
+  "outpost_38": {
+    "id": "outpost_38",
+    "type": "outpost",
+    "x": 20082.896,
+    "y": 6728.3408
+  },
+  "outpost_39": {
+    "id": "outpost_39",
+    "type": "outpost",
+    "x": 17436.436,
+    "y": 13169.224
+  },
+  "outpost_40": {
+    "id": "outpost_40",
+    "type": "outpost",
+    "x": 12287.355,
+    "y": 8888.1191
+  },
+  "outpost_41": {
+    "id": "outpost_41",
+    "type": "outpost",
+    "x": 8291.4502,
+    "y": 10065.422
+  },
+  "outpost_42": {
+    "id": "outpost_42",
+    "type": "outpost",
+    "x": 5372.269,
+    "y": 14237.143
+  },
+  "outpost_43": {
+    "id": "outpost_43",
+    "type": "outpost",
+    "x": 14065.475,
+    "y": 22961.996
+  },
+  "outpost_44": {
+    "id": "outpost_44",
+    "type": "outpost",
+    "x": 22148.824,
+    "y": 14467.041
+  },
+  "outpost_45": {
+    "id": "outpost_45",
+    "type": "outpost",
+    "x": 14286.317,
+    "y": 13049.39
+  },
+  "Therisa": {
+    "id": "Therisa",
+    "type": "city",
+    "x": 10618.9,
+    "y": 12237.3
+  },
+  "Zaros": {
+    "id": "Zaros",
+    "type": "city",
+    "x": 9091.81,
+    "y": 11961.9
+  },
+  "Poliakko": {
+    "id": "Poliakko",
+    "type": "city",
+    "x": 10966.5,
+    "y": 13435.3
+  },
+  "Katalaki": {
+    "id": "Katalaki",
+    "type": "city",
+    "x": 11701.1,
+    "y": 13672.1
+  },
+  "Alikampos": {
+    "id": "Alikampos",
+    "type": "city",
+    "x": 11112.6,
+    "y": 14573.7
+  },
+  "Neochori": {
+    "id": "Neochori",
+    "type": "city",
+    "x": 12502.0,
+    "y": 14337.0
+  },
+  "Stavros": {
+    "id": "Stavros",
+    "type": "city",
+    "x": 12950.1,
+    "y": 15041.6
+  },
+  "Lakka": {
+    "id": "Lakka",
+    "type": "city",
+    "x": 12282.0,
+    "y": 15732.3
+  },
+  "Agios Dionysios": {
+    "id": "Agios Dionysios",
+    "type": "city",
+    "x": 9187.95,
+    "y": 15947.8
+  },
+  "Panochori": {
+    "id": "Panochori",
+    "type": "city",
+    "x": 5033.31,
+    "y": 11245.2
+  },
+  "Topolia": {
+    "id": "Topolia",
+    "type": "city",
+    "x": 7375.81,
+    "y": 15429.5
+  },
+  "Ekali": {
+    "id": "Ekali",
+    "type": "city",
+    "x": 17059.7,
+    "y": 9992.32
+  },
+  "Pyrgos": {
+    "id": "Pyrgos",
+    "type": "city",
+    "x": 16780.6,
+    "y": 12604.5
+  },
+  "Orino": {
+    "id": "Orino",
+    "type": "city",
+    "x": 10410.4,
+    "y": 17243.1
+  },
+  "Neri": {
+    "id": "Neri",
+    "type": "city",
+    "x": 4116.11,
+    "y": 11736.1
+  },
+  "Kore": {
+    "id": "Kore",
+    "type": "city",
+    "x": 7062.42,
+    "y": 16472.1
+  },
+  "Kavala": {
+    "id": "Kavala",
+    "type": "city",
+    "x": 3458.95,
+    "y": 12966.4
+  },
+  "Aggelochori": {
+    "id": "Aggelochori",
+    "type": "city",
+    "x": 3687.78,
+    "y": 13776.1
+  },
+  "Koroni": {
+    "id": "Koroni",
+    "type": "city",
+    "x": 11786.7,
+    "y": 18372.4
+  },
+  "Gravia": {
+    "id": "Gravia",
+    "type": "city",
+    "x": 14479.8,
+    "y": 17614.3
+  },
+  "Anthrakia": {
+    "id": "Anthrakia",
+    "type": "city",
+    "x": 16584.3,
+    "y": 16104.0
+  },
+  "Syrta": {
+    "id": "Syrta",
+    "type": "city",
+    "x": 8625.13,
+    "y": 18301.6
+  },
+  "Negades": {
+    "id": "Negades",
+    "type": "city",
+    "x": 4885.98,
+    "y": 16171.3
+  },
+  "Galati": {
+    "id": "Galati",
+    "type": "city",
+    "x": 10270.3,
+    "y": 19036.0
+  },
+  "Telos": {
+    "id": "Telos",
+    "type": "city",
+    "x": 16207.0,
+    "y": 17296.7
+  },
+  "Charkia": {
+    "id": "Charkia",
+    "type": "city",
+    "x": 18049.1,
+    "y": 15264.1
+  },
+  "Athira": {
+    "id": "Athira",
+    "type": "city",
+    "x": 13993.0,
+    "y": 18709.4
+  },
+  "Dorida": {
+    "id": "Dorida",
+    "type": "city",
+    "x": 19336.9,
+    "y": 13252.3
+  },
+  "Ifestiona": {
+    "id": "Ifestiona",
+    "type": "city",
+    "x": 12787.0,
+    "y": 19679.3
+  },
+  "Chalkeia": {
+    "id": "Chalkeia",
+    "type": "city",
+    "x": 20194.6,
+    "y": 11660.7
+  },
+  "Agios Konstantinos": {
+    "id": "Agios Konstantinos",
+    "type": "city",
+    "x": 3948.77,
+    "y": 17277.8
+  },
+  "Abdera": {
+    "id": "Abdera",
+    "type": "city",
+    "x": 9425.42,
+    "y": 20284.0
+  },
+  "Panagia": {
+    "id": "Panagia",
+    "type": "city",
+    "x": 20490.2,
+    "y": 8907.12
+  },
+  "Nifi": {
+    "id": "Nifi",
+    "type": "city",
+    "x": 19473.3,
+    "y": 15453.7
+  },
+  "Rodopoli": {
+    "id": "Rodopoli",
+    "type": "city",
+    "x": 18753.4,
+    "y": 16597.1
+  },
+  "Kalithea": {
+    "id": "Kalithea",
+    "type": "city",
+    "x": 17826.5,
+    "y": 18129.4
+  },
+  "Selakano": {
+    "id": "Selakano",
+    "type": "city",
+    "x": 20769.8,
+    "y": 6736.46
+  },
+  "Frini": {
+    "id": "Frini",
+    "type": "city",
+    "x": 14612.5,
+    "y": 20786.7
+  },
+  "Agios Petros": {
+    "id": "Agios Petros",
+    "type": "city",
+    "x": 19339.4,
+    "y": 17641.6
+  },
+  "Feres": {
+    "id": "Feres",
+    "type": "city",
+    "x": 21640.7,
+    "y": 7583.93
+  },
+  "Agia Triada": {
+    "id": "Agia Triada",
+    "type": "city",
+    "x": 16668.5,
+    "y": 20487.0
+  },
+  "Paros": {
+    "id": "Paros",
+    "type": "city",
+    "x": 20885.4,
+    "y": 16958.8
+  },
+  "Kalochori": {
+    "id": "Kalochori",
+    "type": "city",
+    "x": 21351.6,
+    "y": 16361.9
+  },
+  "Oreokastro": {
+    "id": "Oreokastro",
+    "type": "city",
+    "x": 4560.45,
+    "y": 21460.6
+  },
+  "Ioannina": {
+    "id": "Ioannina",
+    "type": "city",
+    "x": 23199.7,
+    "y": 19986.6
+  },
+  "Delfinaki": {
+    "id": "Delfinaki",
+    "type": "city",
+    "x": 23908.6,
+    "y": 20144.7
+  },
+  "Sofia": {
+    "id": "Sofia",
+    "type": "city",
+    "x": 25680.5,
+    "y": 21365.1
+  },
+  "Molos": {
+    "id": "Molos",
+    "type": "city",
+    "x": 26943.9,
+    "y": 23170.7
+  }
+}

@@ -1,0 +1,11 @@
+[Unit]
+Description=Hourly Antistasi map update
+
+[Timer]
+OnCalendar=*-*-* *:05:00
+RandomizedDelaySec=30
+Persistent=true
+Unit=antistasi-map.service
+
+[Install]
+WantedBy=timers.target

@@ -1,0 +1,12 @@
+{
+  "source": "/srv/arma3/profiles/server/server.vars.Arma3Profile",
+  "campaign_name": "YOUR_CAMPAIGN",
+  "expected_version": "3.11.1.6e4226d",
+  "publish_hq": false,
+  "front": {
+    "meters_per_soldier": 25,
+    "max_radius_m": 4000
+  },
+  "mode": "local",
+  "local_dir": "/var/www/antistasi"
+}

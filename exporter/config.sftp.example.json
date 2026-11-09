@@ -1,0 +1,16 @@
+{
+  "source": "/srv/arma3/profiles/server/server.vars.Arma3Profile",
+  "campaign_name": "YOUR_CAMPAIGN",
+  "expected_version": "3.11.1.6e4226d",
+  "publish_hq": false,
+  "front": {
+    "meters_per_soldier": 25,
+    "max_radius_m": 4000
+  },
+  "mode": "sftp",
+  "host": "web.example.org",
+  "port": 22,
+  "user": "mapupload",
+  "key": "/home/arma/.ssh/antistasi_map",
+  "remote_dir": "/var/www/antistasi"
+}

@@ -1,0 +1,17 @@
+[Unit]
+Description=Publish Antistasi campaign map
+Wants=network-online.target
+After=network-online.target
+
+[Service]
+Type=oneshot
+User=arma
+Group=arma
+WorkingDirectory=/opt/antistasi-map/exporter
+ExecStart=/usr/bin/python3 /opt/antistasi-map/exporter/sync.py --publish
+TimeoutStartSec=150
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ReadWritePaths=/opt/antistasi-map/exporter/state
+UMask=0022
